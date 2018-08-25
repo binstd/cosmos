@@ -1,0 +1,7 @@
+{
+  "main.css": "styles.css",
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/logo.png": "static/logo.ee9991a8.png",
+  "static/oss_logo.png": "static/oss_logo.95c823d2.png"
+}

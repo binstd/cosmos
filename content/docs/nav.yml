@@ -1,0 +1,36 @@
+- title: 比原开发教程
+  items:
+    - id: bytomanalysis-initialization-configuration-file
+      title: 初始化生成配置文件
+    - id: bytomanalysis-connect-other-nodes
+      title: 连接别的节点
+    - id: bytomanalysis-listening-P2P-port
+      title: 监听p2p端口
+    - id: bytomanalysis-howto-listening-port
+      title: 连上一个比原节点
+    - id: bytomanalysis-howto-getdata
+      title: 从比原节点拿到区块数据
+    - id: bytomanalysis-howto-senddata
+      title: 把请求区块数据的信息发出去
+    - id: bytomanalysis-howto-reply
+      title: 收到“请求区块数据”的信息后如何应答
+    - id: bytomanalysis-dashboard
+      title: Dashboard开发原理
+    - id: bytomanalysis-dashboard-work
+      title: Dashboard创建密钥时前端数据传后端
+    - id: bytomanalysis-create-key
+      title: 通过`/create-key`接口创建密钥
+    - id: bytomanalysis-create-account
+      title: 通过接口`/create-account`创建帐户
+    - id: bytomanalysis-create-account-receiver
+      title: 通过`/create-account-receiver`创建地址
+    - id: bytomanalysis-list-balances
+      title: 通过`/list-balances`显示帐户余额
+    - id: bytomanalysis-mining-process
+      title: 挖矿流程
+    - id: bytomanalysis-transfer
+      title: 如何转帐
+    - id: bytomanalysis-list-transactions
+      title: 通过`/list-transactions`显示交易信息
+    - id: bytomanalysis-transfer-detail
+      title: 显示交易的详细信息
